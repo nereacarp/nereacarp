@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00B2CA&section=header&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EB5D49&section=header&fontColor=FFFFFF" width="100%" />
 
-# Hola soy Nerea!
+# Hola soy Nerea !
 
 Soy estudiante de último curso del Grado de Tecnología Digital y Multimedia en la UPV y apasionada del desarrollo web. Me interesa tanto el frontend como el backend, así que intento aprender por mi cuenta creando proyectos personales y también probando nuevas tecnologías.
 
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=user&size=22&animation=shake&color=00b2ca" alt="icon-person" align="center" /> Mi contacto
-<p align="left"><a href="https://www.linkedin.com/in/nerea-carpintero-basalo-a814a61a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:nereacarpinterob@gmail.com"><img src="https://img.shields.io/badge/Email-nereacarpinterob%40gmail.com-F79256?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F79256&color=EEEEEE" alt="Email" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/nerea-carpintero-basalo-a814a61a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-17264F?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAgMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDEgMSAyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAyLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==&logoColor=white&color=17264F" alt="LinkedIn" /></a> <a href="mailto:nereacarpinterob@gmail.com"><img src="https://img.shields.io/badge/Email-nereacarpinterob%40gmail.com-F79256?style=for-the-badge&logo=gmail&logoColor=white&labelColor=F79256&color=EEEEEE" alt="Email" /></a></p>
 
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=palette&size=22&animation=shake&color=00b2ca" alt="icon-palette" align="center" /> Mi stack
 
@@ -19,7 +19,7 @@ Soy estudiante de último curso del Grado de Tecnología Digital y Multimedia en
 **Estoy aprendiendo:**
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&color=00B2CA" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=092A51" alt="React" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=17264F" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=89BA73" alt="Node.js" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white&color=89BA73" alt="MySQL" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white&color=303030" alt="Fastify" />
@@ -45,4 +45,4 @@ Soy estudiante de último curso del Grado de Tecnología Digital y Multimedia en
 </p>
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00B2CA&section=footer&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EB5D49&section=footer&fontColor=FFFFFF" width="100%" />
