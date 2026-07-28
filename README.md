@@ -41,7 +41,7 @@ Soy estudiante de último curso del Grado de Tecnología Digital y Multimedia en
 </p>
 
 <p align="left">
-  <a href="https://github.com/nereacarp/comidas" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repo" /></a>&nbsp;&nbsp;<a href="URL_DE_TU_DEMO_SI_TIENES" target="_blank"><img src="https://img.shields.io/badge/Web_en_Vivo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&color=F79256" alt="Demo" /></a>
+  <a href="https://github.com/nereacarp/comidas" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repo" /></a>&nbsp;&nbsp;<a href="URL_DE_TU_DEMO_SI_TIENES" target="_blank"><img src="https://img.shields.io/badge/Web_en_Vivo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&color=F79256" alt="Demo" /></a> (web en vivo proceso)
 </p>
 </details>
 
