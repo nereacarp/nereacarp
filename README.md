@@ -46,7 +46,8 @@ Soy graduada en Tecnología Digital y Multimedia en la UPV, y me gusta crear cos
 </p>
 
 <p align="left">
-  <a href="https://github.com/nereacarp/comidas" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repo" /></a>&nbsp;&nbsp;<a href="URL_PONER_aQUI_CUANDO_LA_PUBLIQUE" target="_blank"><img src="https://img.shields.io/badge/Web_en_Vivo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&color=F79256" alt="Demo" /></a> (web en vivo proceso)
+  <a href="https://github.com/nereacarp/comidas" target="_blank"><img src="https://img.shields.io/badge/Repositorio-181717?style=for-the-badge&logo=github&logoColor=white&color=303030" alt="Repo" />
+  <a href="https://comidas-frontend.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Web_en_Vivo-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white&color=F79256" alt="Demo" /></a>
 </p>
 </details>
 
