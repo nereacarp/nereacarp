@@ -2,7 +2,7 @@
 
 # Hola soy Nerea !
 
-Soy graduada en Tecnología Digital y Multimedia en la UPV, y me gusta crear cosas que funcionan de verdad: desde webs con las que se pueda interactuar hasta programas en Python como detectores de caras y otros experimentos. Me encanta tanto el frontend como el backend y entender cómo se entrenan los modelos de IA.
+Soy graduada en Tecnología Digital y Multimedia por la UPV y ahora estoy cursando un máster en desarrollo web. Me gusta crear cosas que funcionen de verdad, desde webs con las que se pueda interactuar hasta programas en Python como detectores de caras y otros experimentos. Me encanta tanto el frontend como el backend y entender cómo se entrenan los modelos de IA.
 
 ## <img src="https://www.readmecodegen.com/api/social-icon?name=user&size=22&animation=shake&color=C25B73" alt="icon-person" align="center" /> <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Mi+contacto&fontColor=C25B73&fontSize=70&fontAlign=24&fontAlignY=50" alt="Mi contacto" height="40" align="center" />
 
@@ -36,8 +36,20 @@ Soy graduada en Tecnología Digital y Multimedia en la UPV, y me gusta crear cos
 
 <details open>
 <summary><b>1. Comidas</b></summary>
-  
-*App web de gestión de recetas, menús semanales y organización de la despensa.*
+
+*App web para planificar menús semanales o mensuales, gestionar recetas, generar la lista de la compra y controlar la despensa, para una persona o para toda la familia.*
+
+**Por qué lo hice:** quería un proyecto fullstack completo y realista, donde tuviera que decidir yo la arquitectura de principio a fin y enfrentarme a problemas reales: datos relacionados entre sí, varios usuarios compartiendo información y despliegue.
+
+**Lo que he aprendido:**
+- **Arquitectura por capas en el backend:** separación entre rutas (HTTP), servicios (lógica de negocio) y utilidades, para que la lógica no dependa del framework y se pueda probar por separado.
+- **Modelado de datos relacional con Prisma y PostgreSQL:** recetas, ingredientes, menús, listas de la compra y despensa están conectados entre sí, y un cambio en uno se refleja en los demás.
+- **Multiusuario con permisos:** hogares compartidos donde varias personas colaboran con roles distintos y favoritos individuales.
+- **Integración de IA generativa:** importación de recetas con Google Gemini, convirtiendo texto libre en datos estructurados.
+- **Estado global en el frontend con Zustand** y una capa de API separada de los componentes, en React 19 con Vite.
+- **Contenedores y despliegue:** entorno completo con Docker Compose, configuraciones separadas de desarrollo y producción, y script de despliegue.
+- **Testing con Vitest** de la lógica de negocio.
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="28" height="28" /> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28" /> &nbsp;
